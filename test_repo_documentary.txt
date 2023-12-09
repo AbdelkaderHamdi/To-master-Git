@@ -1,0 +1,4 @@
+Hello world!
+This my first project To practice [GIT] and Master it. 
+we have these statement for GIT: 
+    
