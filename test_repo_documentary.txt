@@ -1,4 +1,10 @@
 Hello world!
+
 This my first project To practice [GIT] and Master it. 
+
 we have these statement for GIT: 
-    
+    1- To Create a repositry [GIT] --> git init 
+    2- To Track changes --> git add file_name (or you can make '.')
+    3- To check status of repositry --> git status
+    4- To take Backup --> git commit -m"message"
+    5- To show history --> git log
